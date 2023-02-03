@@ -8,7 +8,7 @@ function App() {
     return (
         <main>
             <div className='container'>
-            <h1>Цікаві факти про футбол</h1>
+            <h1>Interesting facts</h1>
                 <section className='info'>
                     {questions.map((question) => {
                         return (
