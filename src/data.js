@@ -3,6 +3,7 @@ const questions = [
         id: 1,
         title: 'The introduction',
         info: '.'
+        document.write(document.img)
     },
     {
         id: 2,
